@@ -52,3 +52,5 @@ https://www.lesswrong.com/users/romeostevensit
 # Serial Experiments Lain
 
 https://www.google.com/search?sca_esv=572714518&rlz=1C1VDKB_enUS951US951&sxsrf=AM9HkKntDcBpoQuB7UgOWzx_4I3SZY5NfA:1697073930947&q=serial+experiments+lain&tbm=isch&source=lnms&sa=X&ved=2ahUKEwi04r6Gre-BAxV0D1kFHXyvCeUQ0pQJegQIDRAB&biw=1463&bih=778&dpr=1.75
+
+
